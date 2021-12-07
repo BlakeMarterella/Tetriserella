@@ -1,0 +1,8 @@
+.play-space {
+    display: grid;
+    grid-template-columns: 320px 200px;  
+}
+
+.board {
+    border: solid 2px;
+}
